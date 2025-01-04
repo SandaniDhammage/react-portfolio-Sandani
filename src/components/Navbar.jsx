@@ -36,7 +36,7 @@ const Navbar = () => {
           <FaInstagram />
         </a>
         <a 
-          href="https://www.figma.com/files/team/1320276785026890986/recents-and-sharing?fuid=1320276780474359856" 
+          href="https://www.figma.com/proto/HmBbl4cmJBCoG3z0UW6lfR/Glass-Morphism-Food-delivery-website-(Community)?node-id=0-1&t=TxzYYUBjbdhObdbr-1" 
           target="_blank" 
           rel="noopener noreferrer"
           className="hover:text-purple-500"
