@@ -5,6 +5,7 @@ import project4 from "../assets/project4.jpg";
 import project5 from "../assets/project5.jpg";
 import project6 from "../assets/project6.jpg";
 import project7 from "../assets/project7.jpg";
+import project8 from "../assets/project8.png";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -50,6 +51,13 @@ export const PROJECTS = [
     description:
       "The Online Tour Guide Website, developed as a group project during the 2023 second-year, first-semester OOP module, leverages key Object-Oriented Programming (OOP) concepts.I was responsible for designing and implementing the 'Package Handling' function, which allows users to effortlessly explore, manage, and book tour packages. The system provides an intuitive interface, enhancing the user experience while simplifying the management of tour packages for both users and administrators.",
     technologies: ["Java", "HTML", "CSS", "MySQL"],
+  },
+  {
+    title: "Student Management System",
+    image: project8,
+    description:
+      "This is a simple web application built as a self-learning project to explore the MERN (MongoDB, Express.js, React, Node.js) stack along with Tailwind CSS for styling. The system allows users to perform essential CRUD (Create, Read, Update, Delete) operations on student details, such as adding new students, viewing their information, editing existing records, and deleting entries.",
+    technologies: ["MERN stack", "Tailwind CSS"],
   },
   {
     title: "The Resturant Website",
