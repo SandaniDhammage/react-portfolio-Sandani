@@ -6,6 +6,7 @@ import project5 from "../assets/project5.jpg";
 import project6 from "../assets/project6.jpg";
 import project7 from "../assets/project7.jpg";
 import project8 from "../assets/project8.png";
+import project9 from "../assets/project9.jpg";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -54,6 +55,14 @@ export const PROJECTS = [
       "The Online Tour Guide Website, developed as a group project during the 2023 second-year, first-semester OOP module, leverages key Object-Oriented Programming (OOP) concepts.I was responsible for designing and implementing the 'Package Handling' function, which allows users to effortlessly explore, manage, and book tour packages. The system provides an intuitive interface, enhancing the user experience while simplifying the management of tour packages for both users and administrators.",
     technologies: ["Java", "HTML", "CSS", "MySQL"],
     GithubLink:"https://github.com/SandaniDhammage/online-tour-guide",
+  },
+  {
+    title: "Spotify Functionality Automation",
+    image: project9,
+    description:
+      "This self-learning initiative focused on automating essential Spotify website functionalities to enhance expertise in software testing. Key operations included logging in, searching and playing songs, saving songs to the library, adding songs to playlists, and creating new playlists. The project deepened understanding of automation workflows, improved testing efficiency, and provided valuable insights into analyzing application behavior, reinforcing a strong foundation in quality assurance.",
+    technologies: ["Selenium WebDriver", "Java", "TestNG"],
+    GithubLink:"https://github.com/SandaniDhammage/Automate-spotify-website",
   },
   {
     title: "Student Management System",
