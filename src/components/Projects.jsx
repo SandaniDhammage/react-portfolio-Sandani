@@ -1,5 +1,6 @@
 import { PROJECTS } from "../constants";
 import { motion } from "framer-motion";
+import { FaGithub } from "react-icons/fa";
 
 const Projects = () => {
   return (
@@ -53,6 +54,15 @@ const Projects = () => {
                   </span>
                 ))}
               </div>
+              <a
+                href={project.GithubLink}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-4 inline-flex items-center text-neutral-400 hover:text-blue-500"
+              >
+                <FaGithub className="mr-2" />
+                View on GitHub
+              </a>
             </motion.div>
           </div>
         ))}

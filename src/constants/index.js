@@ -37,6 +37,7 @@ export const PROJECTS = [
     description:
       "The E-Commerce Website Testing project was a self-initiated effort to enhance my automation testing skills by analyzing the Daraz website. I independently designed and executed test cases to validate key functionalities such as login, search, add-to-cart, and checkout processes. Through automation, I ensured the reliability, accuracy, and seamless performance of these features, reflecting my expertise in e-commerce testing.",
     technologies: ["Selenium WebDriver", "Java", "TestNG"],
+    GithubLink: "https://github.com/SandaniDhammage/Automation-Testing-for-Daraz",
   },
   {
     title: "Sweets Factory Managment System",
@@ -44,6 +45,7 @@ export const PROJECTS = [
     description:
       "This project is a dynamic web application built to streamline and optimize the business operations of a sweets factory. As part of a group effort for the ITP module in 2024, I took charge of the 'Finance Management' function, crafting features to manage income, expenses, and profit, while designing an insightful dashboard to display all financial details. The system enhances efficiency across financial operations, inventory, sales, and production. My contributions reflect a blend of full-stack development, financial analytics, and intuitive UI design, aimed at delivering a seamless and impactful business solution.",
     technologies: ["MERN stack", "React bootsrap", "Postman", "Github"],
+    GithubLink:"https://github.com/SandaniDhammage/FinanceManagementSystem",
   },
   {
     title: "The Online Tour Guide Website",
@@ -51,6 +53,7 @@ export const PROJECTS = [
     description:
       "The Online Tour Guide Website, developed as a group project during the 2023 second-year, first-semester OOP module, leverages key Object-Oriented Programming (OOP) concepts.I was responsible for designing and implementing the 'Package Handling' function, which allows users to effortlessly explore, manage, and book tour packages. The system provides an intuitive interface, enhancing the user experience while simplifying the management of tour packages for both users and administrators.",
     technologies: ["Java", "HTML", "CSS", "MySQL"],
+    GithubLink:"https://github.com/SandaniDhammage/online-tour-guide",
   },
   {
     title: "Student Management System",
@@ -58,6 +61,7 @@ export const PROJECTS = [
     description:
       "This is a simple web application built as a self-learning project to explore the MERN (MongoDB, Express.js, React, Node.js) stack along with Tailwind CSS for styling. The system allows users to perform essential CRUD (Create, Read, Update, Delete) operations on student details, such as adding new students, viewing their information, editing existing records, and deleting entries.",
     technologies: ["MERN stack", "Tailwind CSS"],
+    GithubLink:"https://github.com/SandaniDhammage/student-management-frontend",
   },
   {
     title: "The Resturant Website",
@@ -65,6 +69,7 @@ export const PROJECTS = [
     description:
       "The Restaurant Website Development project focuses on designing an intuitive and visually appealing front-end for a restaurant's online presence. It features a sleek, user-friendly interface that allows customers to effortlessly browse the menu, explore restaurant details, and view promotions. The design emphasizes responsiveness, ensuring a seamless experience across various devices. The project aims to provide an engaging and smooth user journey, making it easy for customers to interact with the restaurant's offerings and enhancing their overall online experience.",
     technologies: ["React", "Material UI"],
+    GithubLink:"https://github.com/SandaniDhammage/Restaurant-Website",
   },
   {
     title: "The Bubble Tea Shop Website",
@@ -72,6 +77,7 @@ export const PROJECTS = [
     description:
       "The Bubble Tea Shop Website project brought to life an engaging and visually appealing platform dedicated to showcasing the charm of bubble tea. Through thoughtfully crafted designs and interactive features, the website captures the vibrant essence of the shop while delivering a seamless browsing experience. The project focuses on intuitive navigation, enticing visuals, and user-friendly functionality, offering customers a delightful journey through the world of bubble tea. ",
     technologies: ["HTML", "CSS", "JavaScript"],
+    GithubLink:"",
   },
   {
     title: "The Task Management App",
@@ -79,6 +85,7 @@ export const PROJECTS = [
     description:
       "The Task Management Mobile App is a thoughtfully designed solution for organizing and streamlining daily tasks. Developed as an individual project for the MAD module in my second year, this app empowers users to efficiently manage their schedules and track progress. With a clean interface and intuitive functionality, it offers a seamless way to stay on top of responsibilities, enhancing productivity and time management for a busy lifestyle.",
     technologies: ["Kotlin", "SQLite", "Android studio"],
+    GithubLink:"https://github.com/SandaniDhammage/Task-management",
   },
   {
     title: "Fun with Dora - Mobile Gaming App",
@@ -86,6 +93,7 @@ export const PROJECTS = [
     description:
       " Fun with Dora is a simple yet captivating mobile game app developed as part of my individual project for the MAD module in my second year. This interactive game offers an engaging and fun experience, allowing users to explore exciting challenges and adventures with the beloved character, Dora. Designed with a focus on user enjoyment and ease of play, the app delivers a light-hearted and immersive gaming experience, perfect for relaxing moments.",
     technologies: ["Kotlin", "Android studio"],
+    GithubLink:"https://github.com/SandaniDhammage/Fun-with-Dora",
   },
 ];
 
